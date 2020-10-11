@@ -8,5 +8,5 @@ Here are some ideas to get you started:
 
 I am a Network Engineer :ghost: love to work with networks and Systems :penguin: . Always eager to learn new things ⚡ . Climbing the ladder with a slow steps to become an expert System/Network Administrator
 
--🤔 Passion for Information Security
--📫 How to reach me: <a href="https://www.linkedin.com/in/ramysaafan17"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+- 🤔 Passion for Information Security
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/ramysaafan17"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
